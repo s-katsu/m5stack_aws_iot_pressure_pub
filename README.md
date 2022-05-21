@@ -1,0 +1,2 @@
+# m5stack_aws_iot_pressure_pub
+気圧センサーと通信するM5StackのAWS IOTのpublisher

@@ -8,6 +8,8 @@
 HW構成はM5Stack + 2SMPB-02E絶対圧センサーを想定する
 ソースはArduinoを想定
 
+![image](https://user-images.githubusercontent.com/20053970/170853366-0058c24d-4f6b-4d95-bb21-c6a038afb3e6.png)
+
 ## センサーライブラリ
 絶対圧センサー 2smpb02e-grove-m5stackのライブラリ
 
